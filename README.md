@@ -1,6 +1,9 @@
-# Class Exercise node Project
+# Content of Lab Excercise folder
 
-- Complete given class exercise
-- Follow instruction mentions as a TODO - comments in source code files
-- Fix any error found in the code
-- Use SLACK or email to send any question
+- Week 2: 101395302_COMP3123-exec01
+- Week 3: 101395302_COMP3123-exec02
+- Week 4: 101395302_COMP3123-exec03
+- Week 5: 101395302_COMP3123-exec04
+- Week 6: 101395302_COMP3123-exec05
+- Week 6: 101395302_COMP3123-exec07
+- Week 9: labweek09
