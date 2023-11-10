@@ -1,0 +1,64 @@
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+.grid-container > div {
+    text-align: center;
+    width: 100%;
+}
+.grid-container > div > input{
+    text-align: left;
+    width: 100%;
+}
+
+.grid-container-double{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.grid-container-double > div {
+    text-align: center;
+    width: 100%;
+}
+.grid-container-double > div > input{
+    text-align: left;
+    width: 100%;
+}
+
+.grid-container-triple{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.grid-container-triple > div {
+    text-align: center;
+    width: 100%;
+}
+.grid-container-triple > div > input{
+    text-align: left;
+    width: 100%;
+}
+
+table, tr{
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 5px;
+}
+
+th{
+    text-align: right;
+    color:green;
+    font-weight: bold;
+    border-collapse: collapse;
+}
+
+td > h2{
+    text-align: left;
+    font-weight:lighter;
+    border-collapse: collapse;
+}
